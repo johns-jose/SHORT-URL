@@ -1,0 +1,29 @@
+{
+  "name": "short-url",
+  "version": "1.0.0",
+  "description": "routes",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johns-jose/SHORT-URL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johns-jose/SHORT-URL/issues"
+  },
+  "homepage": "https://github.com/johns-jose/SHORT-URL#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.4",
+    "shortid": "^2.2.16"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

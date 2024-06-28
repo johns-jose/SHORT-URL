@@ -4,4 +4,4 @@ post/url
 
 get/:id
 
-get/analytics/:id
+get/url/analytics/:id
